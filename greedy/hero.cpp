@@ -4,7 +4,7 @@
 	Hero sẽ có sức mạnh là power
 	Monsters sẽ có sức mạnh là monsters[i]
 
-	Nếu hero có sức mạnh lớn hơn thì hero sẽ tiêu diệt monster đó và được cộng sức mạnh của monster đó ?
+	Nếu hero có sức mạnh lớn hơn thì hero sẽ tiêu diệt monster đó và được cộng sức mạnh của monster đó 
 
 	Hỏi hero có thể tiêu diệt hết monsters không ?
 
